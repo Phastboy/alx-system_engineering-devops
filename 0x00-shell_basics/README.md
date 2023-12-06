@@ -1,6 +1,8 @@
-# 0x00-shell_basics
+# Shell Basics
 
-This is directory contains my solution to `ALX` `0x00-shell_basics` tasks.
+- This is directory contains my solution to `ALX` `0x00-shell_basics` tasks.
+- Each file in this directory is the solution to a task.
+- All files in this directory are scripts.
 
 ## Scripts
 
@@ -20,3 +22,4 @@ These are the scripts in this directory and what they do.
 - `8-firstdelete`: Delete the file `betty`.
     - The file betty is in `/tmp/my_first_directory`.
 - `9-firstdirdeletion`: Delete the directory `my_first_directory` that is in the `/tmp` directory.
+- `10-back`: Changes the working directory to the previous one.
