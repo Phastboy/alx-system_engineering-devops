@@ -1,6 +1,6 @@
 # 0x00-shell_basics
 
-This is directory contains script for basic shell operations.
+This is directory contains my solution to `ALX` `0x00-shell_basics` tasks.
 
 ## Scripts
 
@@ -17,3 +17,5 @@ These are the scripts in this directory and what they do.
     - And hidden files (starting with `.`)
 - `6-firstdirectory`: Creates a directory named `my_first_directory` in the `/tmp/` directory.
 - `7-movethatfile`: Moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
+- `8-firstdelete`: Delete the file `betty`.
+    - The file betty is in `/tmp/my_first_directory`.
