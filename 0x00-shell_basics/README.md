@@ -26,3 +26,6 @@ These are the scripts in this directory and what they do.
 - `11-lists`: Script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 - `12-file_type`: Script that prints the type of the file named `iamafile`. The file `iamafile` is in the `/tmp`.
 - `13-symbolic_link`: Creates a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link will be created in the current working directory.
+- `14-copy_html`: Script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+- `100-lets_move`: Moves all files beginning with an uppercase letter to the directory `/tmp/u`.
+- `101-clean_emacs`: Script that deletes all files in the current working directory that end with the character `~`.
