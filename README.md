@@ -9,6 +9,7 @@ Each directory corresponds to a specific set of tasks or projects solutions. Nav
 ## Table of Contents
 
 - [0x00-shell_basics](0x00-shell_basics): This directory contains tasks related to shell basics.
+- [0x01-shell_permissions](0x01-shell_permissions): This directory contains tasks related to shell permissions.
 
 ## About ALX
 
