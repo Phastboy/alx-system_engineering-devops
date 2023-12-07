@@ -16,3 +16,7 @@ These are the scripts in this directory and what they do.
 - `5-execute`: Script that adds execute permission to the owner of the file `hello`.
 - `6-multiple_permissions`: Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file `hello`.
 - `7-everybody`: Script that adds execution permission to the owner, the group owner and the other users, to the file `hello`.
+- `8-James_Bond`: Script that sets the permission to the file `hello` as follows:
+    - Owner: no permission at all
+    - Group: no permission at all
+    - Other users: all the permissions
